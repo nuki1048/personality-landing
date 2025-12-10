@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@config "../../tailwind.config.js";
+
+@layer base {
+  :root {
+    --heroui-navbar-max-width-sm: var(--container-width);
+    --heroui-navbar-max-width-md: var(--container-width);
+    --heroui-navbar-max-width-lg: var(--container-width);
+    --heroui-navbar-max-width-xl: var(--container-width);
+    --heroui-navbar-max-width-2xl: var(--container-width);
+  }
+
+  body:has(.mobile-menu-open) {
+    overflow: hidden;
+  }
+}

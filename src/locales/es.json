@@ -1,0 +1,71 @@
+{
+  "HomePage": {
+    "title": "¡Hola mundo!"
+  },
+  "Navbar": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "pricing": "Precios",
+    "faqs": "Preguntas frecuentes",
+    "contactUs": "Contáctanos",
+    "login": "Iniciar sesión",
+    "signup": "Registrarse",
+    "startPersonalityTest": "Iniciar prueba"
+  },
+  "Hero": {
+    "title": "Descubre <green>quién eres realmente</green> con el test de personalidad",
+    "description": "Con esta prueba, descubrirás tu tipo de personalidad exacto.",
+    "startPersonalityTest": "Iniciar test de personalidad",
+    "termsConditions": "Al usar este sitio, aceptas los términos y condiciones"
+  },
+  "Features": {
+    "feature1Title": "¡Descubre tu tipo de personalidad en minutos!",
+    "feature1Description": "Nuestra prueba ofrece información profunda y personalizada, permitiéndote planificar tu vida y carrera de manera más efectiva.",
+    "feature2Title": "Descubre información que cambiará tu vida",
+    "feature2Description": "El 92% de los participantes han implementado cambios exitosamente para mejorar sus entornos personales y laborales siguiendo nuestras recomendaciones."
+  },
+  "HowItWorks": {
+    "title": "Cómo funciona",
+    "steps": {
+      "step1": "Prepárate",
+      "step2": "Completa la prueba",
+      "step3": "Recibe tus resultados",
+      "step1Description": "Asegúrate de estar en un entorno relajado propicio para la concentración.",
+      "step2Description": "Responde a 100 preguntas diseñadas para revelar aspectos de tu personalidad.",
+      "step3Description": "¡Accede a tu informe para explorar los diferentes tipos de personalidad y descubre a cuál perteneces!"
+    },
+    "stats": {
+      "title": "Descubre tu tipo de personalidad exacto completando nuestra prueba.",
+      "questions": "Preguntas",
+      "dataPointsAnalyzed": "Puntos de datos analizados"
+    },
+    "startPersonalityTest": "Iniciar prueba de personalidad"
+  },
+  "WhatYouWillReceive": {
+    "title": "Qué recibirás",
+    "personalityReport": "Informe de personalidad",
+    "courseLibrary": "Biblioteca de cursos",
+    "courseLibraryDescription": "Basándote en los resultados de tu prueba, puedes inscribirte en cursos específicos para mejorar tus habilidades.",
+    "certificates": "Certificados",
+    "certificatesDescription": "Al completar los cursos y aprobar las pruebas, recibirás un certificado descargable.",
+    "personalityReportDescription": "Un informe detallado y directo que revela tus fortalezas y debilidades.",
+    "dailyChallenges": "Desafíos diarios",
+    "dailyChallengesDescription": "Actividades diseñadas para ayudarte a mejorar tu personalidad gradualmente cada día.",
+    "testLibrary": "Biblioteca de pruebas",
+    "testLibraryDescription": "Acceso a más de 20 pruebas de evaluación para ayudarte a evaluar tus habilidades blandas y duras."
+  },
+  "Footer": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "pricing": "Precios",
+    "faqs": "Preguntas frecuentes",
+    "contactUs": "Contáctanos",
+    "signIn": "Iniciar sesión",
+    "cancelSubscription": "Cancelar suscripción",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfUse": "Términos de uso",
+    "freePersonalityTest": "Test de personalidad gratuito",
+    "disclaimer": "Aviso legal: El sitio no ofrece información profesional o definitivamente precisa... leer más",
+    "copyright": "© {year} Novomedia EOOD. Todos los derechos reservados."
+  }
+}

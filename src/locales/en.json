@@ -1,0 +1,71 @@
+{
+  "HomePage": {
+    "title": "Hello world!"
+  },
+  "Navbar": {
+    "home": "Home",
+    "about": "About",
+    "pricing": "Pricing",
+    "faqs": "FAQs",
+    "contactUs": "Contact Us",
+    "login": "Login",
+    "signup": "Sign Up",
+    "startPersonalityTest": "Start Personality Test"
+  },
+  "Hero": {
+    "title": "Discover <green>who you truly are</green> with the Personality test",
+    "description": "With this test, you will find out your exact personality type.",
+    "startPersonalityTest": "Start Personality Test",
+    "termsConditions": "By using this site, you agree with the terms & conditions"
+  },
+  "Features": {
+    "feature1Title": "Find out your personality type within minutes!",
+    "feature1Description": "Our test offers in-depth and personalized insights, enabling you to strategize your life and career more effectively.",
+    "feature2Title": "Discover life-changing insights",
+    "feature2Description": "92% of participants have successfully implemented changes to better their personal and work environments following our recommendations."
+  },
+  "HowItWorks": {
+    "title": "How it works",
+    "steps": {
+      "step1": "Prepare yourself",
+      "step2": "Complete the test",
+      "step3": "Receive your insights",
+      "step1Description": "Ensure you're in a relaxed setting conducive to concentration for the test.",
+      "step2Description": "Respond to 100 questions designed to reveal aspects of your personality.",
+      "step3Description": "Access your report to explore the various personality types and find out where you belong!"
+    },
+    "stats": {
+      "title": "Uncover your exact personality type by completing our test.",
+      "questions": "Questions",
+      "dataPointsAnalyzed": "Data points analyzed"
+    },
+    "startPersonalityTest": "Start Personality Test"
+  },
+  "WhatYouWillReceive": {
+    "title": "What you will receive",
+    "personalityReport": "Personality Report",
+    "courseLibrary": "Course Library",
+    "courseLibraryDescription": "Based on your test results, you can enroll in specific courses aimed at enhancing your skills.",
+    "certificates": "Certificates",
+    "certificatesDescription": "Upon completing the courses and passing the tests, you will receive a downloadable certificate.",
+    "personalityReportDescription": "A highly detailed and straightforward report that reveals your strengths and weaknesses.",
+    "dailyChallenges": "Daily Challenges",
+    "dailyChallengesDescription": "Activities designed to help you improve your personality incrementally each day.",
+    "testLibrary": "Test Library",
+    "testLibraryDescription": "Access to over 20 assessment tests to help you evaluate your soft and hard skills."
+  },
+  "Footer": {
+    "home": "Home",
+    "about": "About",
+    "pricing": "Pricing",
+    "faqs": "FAQs",
+    "contactUs": "Contact Us",
+    "signIn": "Sign In",
+    "cancelSubscription": "Cancel Subscription",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfUse": "Terms of Use",
+    "freePersonalityTest": "Free Personality Test",
+    "disclaimer": "Disclaimer: The Site does not offer professional or definitively accurate... read more",
+    "copyright": "© {year} Novomedia EOOD. All rights reserved."
+  }
+}
