@@ -4,7 +4,7 @@ A pixel-perfect recreation of [personality.co](https://personality.co/) built wi
 
 ## 🚀 Live Demo
 
-[View on Vercel](https://your-vercel-deployment-url.vercel.app)
+[View on Vercel](https://personality-landing.vercel.app/)
 
 ## 🛠 Tech Stack
 
